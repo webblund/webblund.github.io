@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# WEBBLUND.NFO
 
-You can use the [editor on GitHub](https://github.com/webblund/webblund.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- sebastian at webblund dot se/dev
+- srebastian @ [github](https://www.github.com/srebastian)/[gitlab](https://www.gitlab.com/srebastian)
+- srebastian#5621 @ [discord](https://discord.gg/rACQNhy)
+- sebastian:webblund.dev @[element](https://matrix.to/#/@sebastian:webblund.dev)
+- +46709316541 @ [telegram](https://t.me/webblund)/signal/old timey phone
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+i make web stuff and have a fondness for foss. currently hacking away @ [PLAYipp](https://www.playipp.com). 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/webblund/webblund.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+thank you for listening to my ted talk.
